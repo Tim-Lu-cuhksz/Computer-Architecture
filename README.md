@@ -6,3 +6,5 @@ The following bulletins are a brief summary of the projects.
 
 - MIPS assembler and simulator
 - A simplified 5-pipelined CPU
+
+Please refer to the specific directory for details.
